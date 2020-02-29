@@ -1,0 +1,28 @@
+
+
+Building a new DB, current time: 02/28/2020 15:57:23
+New DB name:   /scrfs/storage/godwinc/watermelon_files/assn04/watermelon_nt.fasta
+New DB title:  watermelon_nt.fasta
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 1000000000B
+FASTA-Reader: Ignoring invalid residues at position(s): On line 39: 1489, 1491, 1495-1496, 1499, 1503-1504
+FASTA-Reader: Ignoring invalid residues at position(s): On line 46: 1186, 1188, 1192-1193, 1196, 1200
+FASTA-Reader: Ignoring invalid residues at position(s): On line 47: 574, 576, 580-581, 584, 586-589
+Adding sequences from FASTA; added 57 sequences in 0.00479507 seconds.
+Citrullus_nad4L	Citrullus_nad4	100.000	303	0	0	1	303	1498	1800	1.84e-162	560
+PBS Job Statistics:
+PBS Job ID: 4778964.sched
+Resource List: neednodes=1:ppn=12,nodes=1:ppn=12,walltime=00:30:00
+Resources Used: cput=00:00:00,mem=0kb,vmem=0kb,walltime=00:00:01
+Queue Name: tiny12core
+Program Return Code: 0
+Head Node:
+compute1144
+PBS Job Statistics:
+PBS Job ID: 4778964.sched
+Resource List: neednodes=1:ppn=12,nodes=1:ppn=12,walltime=00:30:00
+Resources Used: cput=00:00:00,mem=0kb,vmem=0kb,walltime=00:00:01
+Queue Name: tiny12core
+Program Return Code: 0
+Head Node: compute1144

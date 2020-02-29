@@ -1,0 +1,17 @@
+#!/bin/bash
+
+#PBS -N Blast
+#PBS -q tiny12core
+#PBS -j oe
+#PBS -m abe
+#PBS -M godwinc@uark.edu
+#PBS -o godwin_assn04.6.out
+#PBS -l nodes=1:ppn=12
+#PBS -l walltime=00:00:30:00
+
+cd $PBS_O_WORKDIR
+
+module load blast/2.6.0+
+
+tblastx -query nad4L.fasta -db watermelon.fsa -outfmt "6 qlen stitle slen score bitscore evalue frames"
+

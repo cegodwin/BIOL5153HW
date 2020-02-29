@@ -1,0 +1,48 @@
+
+
+Building a new DB, current time: 02/28/2020 16:52:02
+New DB name:   /scrfs/storage/godwinc/watermelon_files/assn04/mt.fasta
+New DB title:  mt.fasta
+Sequence type: Nucleotide
+Deleted existing Nucleotide BLAST database named /scrfs/storage/godwinc/watermelon_files/assn04/mt.fasta
+Keep MBits: T
+Maximum file size: 1000000000B
+Adding sequences from FASTA; added 23 sequences in 0.172885 seconds.
+Citrullus_nad4L	Citrullus	100.000	303	0	0	1	303	366432	366130	5.50e-160	560
+Citrullus_nad4L	Vitis	99.340	303	2	0	1	303	274032	274334	1.19e-156	549
+Citrullus_nad4L	Ricinus	99.003	301	3	0	3	303	229724	230024	7.17e-154	540
+Citrullus_nad4L	Cucurbita	98.350	303	5	0	1	303	470643	470945	1.20e-151	532
+Citrullus_nad4L	Brassica	98.339	301	5	0	3	303	42422	42122	1.55e-150	529
+Citrullus_nad4L	Solanum	98.007	301	6	0	3	303	128418	128118	7.22e-149	523
+Citrullus_nad4L	Nicotiana	98.007	301	6	0	3	303	114938	114638	7.22e-149	523
+Citrullus_nad4L	Carica	97.690	303	7	0	1	303	291049	290747	2.60e-148	521
+Citrullus_nad4L	Arabidopsis	97.674	301	7	0	3	303	189229	188929	3.36e-147	518
+Citrullus_nad4L	Tripsacum	95.380	303	14	0	1	303	326026	325724	1.23e-136	483
+Citrullus_nad4L	Sorghum	95.380	303	14	0	1	303	310260	310562	1.23e-136	483
+Citrullus_nad4L	Oryza_japonica	95.380	303	14	0	1	303	299790	300092	1.23e-136	483
+Citrullus_nad4L	Oryza_indica	95.380	303	14	0	1	303	299790	300092	1.23e-136	483
+Citrullus_nad4L	Beta_CMS	95.380	303	14	0	1	303	178270	177968	1.23e-136	483
+Citrullus_nad4L	Beta	95.380	303	14	0	1	303	55605	55303	1.23e-136	483
+Citrullus_nad4L	Zea_perennis	95.050	303	15	0	1	303	141863	142165	5.70e-135	477
+Citrullus_nad4L	Zea_mays_mays	95.050	303	15	0	1	303	26910	27212	5.70e-135	477
+Citrullus_nad4L	Zea_luxurians	95.050	303	15	0	1	303	119552	119854	5.70e-135	477
+Citrullus_nad4L	Triticum	95.050	303	15	0	1	303	421931	421629	5.70e-135	477
+Citrullus_nad4L	Silene_latifolia	95.050	303	15	0	1	303	230434	230132	5.70e-135	477
+Citrullus_nad4L	bambusa_oldhamii	95.050	303	15	0	1	303	315443	315141	5.70e-135	477
+Citrullus_nad4L	bambusa_oldhamii	94.000	100	6	0	64	163	446134	446233	3.92e-37	152
+Citrullus_nad4L	Zea_mays_parviglumis	94.719	303	16	0	1	303	170854	171156	2.65e-133	472
+PBS Job Statistics:
+PBS Job ID: 4778981.sched
+Resource List: neednodes=1:ppn=12,nodes=1:ppn=12,walltime=00:30:00
+Resources Used: cput=00:00:00,mem=0kb,vmem=0kb,walltime=00:00:01
+Queue Name: tiny12core
+Program Return Code: 0
+Head Node:
+compute1144
+PBS Job Statistics:
+PBS Job ID: 4778981.sched
+Resource List: neednodes=1:ppn=12,nodes=1:ppn=12,walltime=00:30:00
+Resources Used: cput=00:00:00,mem=0kb,vmem=0kb,walltime=00:00:01
+Queue Name: tiny12core
+Program Return Code: 0
+Head Node: compute1144

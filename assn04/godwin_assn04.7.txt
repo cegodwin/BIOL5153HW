@@ -1,0 +1,6 @@
+#assn04-7
+
+The relationship between the raw score and the bit score are the same when comparing to the database size between 
+questions 2-4 because because the two numbers don't change even as the database size increases. 
+Question 5-6 show and increase in bit and raw score as the database size increases. 
+The e-value changes by getting larger as the database gets larger. 

@@ -1,0 +1,25 @@
+
+
+Building a new DB, current time: 02/28/2020 16:17:06
+New DB name:   /scrfs/storage/godwinc/watermelon_files/assn04/watermelon.fsa
+New DB title:  watermelon.fsa
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 1000000000B
+Adding sequences from FASTA; added 1 sequences in 0.00802708 seconds.
+Citrullus_nad4L	watermelon	100.000	303	0	0	1	303	366432	366130	1.82e-161	560
+PBS Job Statistics:
+PBS Job ID: 4778968.sched
+Resource List: neednodes=1:ppn=12,nodes=1:ppn=12,walltime=00:30:00
+Resources Used: cput=00:00:00,mem=0kb,vmem=0kb,walltime=00:00:00
+Queue Name: tiny12core
+Program Return Code: 0
+Head Node:
+compute1144
+PBS Job Statistics:
+PBS Job ID: 4778968.sched
+Resource List: neednodes=1:ppn=12,nodes=1:ppn=12,walltime=00:30:00
+Resources Used: cput=00:00:00,mem=0kb,vmem=0kb,walltime=00:00:00
+Queue Name: tiny12core
+Program Return Code: 0
+Head Node: compute1144

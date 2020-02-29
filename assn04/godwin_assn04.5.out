@@ -1,0 +1,16 @@
+BLAST Database error: No alias or index file found for nucleotide database [nt] in search path [/scrfs/storage/godwinc/watermelon_files/assn04::]
+PBS Job Statistics:
+PBS Job ID: 4778982.sched
+Resource List: neednodes=1:ppn=12,nodes=1:ppn=12,walltime=00:30:00
+Resources Used: cput=00:00:00,mem=0kb,vmem=0kb,walltime=00:00:01
+Queue Name: tiny12core
+Program Return Code: 2
+Head Node:
+compute1144
+PBS Job Statistics:
+PBS Job ID: 4778982.sched
+Resource List: neednodes=1:ppn=12,nodes=1:ppn=12,walltime=00:30:00
+Resources Used: cput=00:00:00,mem=0kb,vmem=0kb,walltime=00:00:01
+Queue Name: tiny12core
+Program Return Code: 2
+Head Node: compute1144
